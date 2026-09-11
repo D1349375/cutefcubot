@@ -12,3 +12,7 @@ build
 dist
 
 captcha.png
+
+# Secrets and User Data
+.env
+watchlist.json

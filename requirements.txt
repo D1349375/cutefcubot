@@ -1,4 +1,11 @@
+fastapi>=0.115.0
+uvicorn>=0.30.0
+requests>=2.32.0
+python-dotenv>=1.0.0
+line-bot-sdk>=3.20.0
+
+# 原專案之自動搶課備選套件 (如需使用本機 Selenium 自動點擊可保留)
 PyYAML==6.0
-selenium==4.11.2
-ddddocr~=1.4.7
-Pillow==9.5.0
+selenium>=4.24.0
+ddddocr>=1.4.7
+Pillow>=9.5.0
